@@ -1,6 +1,6 @@
 # My Sealmate
 
-## A personality quiz for seal-lovers!
+## A personality quiz for seal-lovers! :seal:
 
 Dive into the depths of your personality with this unique 'Sealmate' quiz! Ever wondered which seal species best represents your inner self? This playful yet insightful quiz will take you on an oceanic journey of self-discovery!
 
