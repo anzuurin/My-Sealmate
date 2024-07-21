@@ -1,4 +1,10 @@
 /* All the CSS styles for this quiz */
+@font-face {
+    font-family: 'Single-day';
+    src: url('');
+    font-weight: normal;
+    font-style: normal;
+}
 
 :root {
     background-color: #ecf5ff;
@@ -7,7 +13,7 @@
 
 *{
     box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Gaegu';
     margin: 0;
     padding: 0;
     color: #333;
@@ -41,6 +47,13 @@ h3 {
     font-size: 2.8rem;
     font-weight: 500;
 }
+
+/* FONT */
+/* .gaegu-regular {
+    font-family: "Gaegu", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  } */
 
 /* UTILITIES */
 
