@@ -4,14 +4,8 @@
         "id": 1,
         "text": "Welcome to the ocean, little seal! Where would you prefer to live?",
         "options": [
-          {
-            "id": "A",
-            "text": "Somewhere warm, so I can enjoy basking on the rocks outside"
-          },
-          {
-            "id": "B",
-            "text": "Somewhere cold, so I can cuddle up next to my seal buddies"
-          }
+          {"text": "Somewhere warm, so I can enjoy basking on the rocks outside", "score": 0},
+          {"text": "Somewhere cold, so I can cuddle up next to my seal buddies", "score": 1}
         ]
       },
       {

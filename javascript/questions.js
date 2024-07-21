@@ -1,2 +1,5 @@
 // Main JS file for quiz logic
-console.log("test!");
+
+//notes:
+// - store answers in localStorage but clear it after the quiz is finished
+let quizAnswers = [];
