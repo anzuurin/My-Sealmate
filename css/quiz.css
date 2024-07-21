@@ -41,6 +41,10 @@ h3 {
     font-weight: 500;
 }
 
+p {
+    font-size: 3rem;
+}
+
 /* UTILITIES */
 
 .container {
@@ -80,9 +84,15 @@ h3 {
     display: none;
 }
 
+.gif {
+    width: 50%;
+    object-fit: cover;
+    margin: 1rem;
+}
+
 /* BUTTONS */
 .btn {
-    font-size: 1.8rem;
+    font-size: 2rem;
     font-family: inherit;
     padding: 1rem 0;
     width: 20rem;
